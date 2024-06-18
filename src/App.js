@@ -33,7 +33,7 @@ function App() {
             </select>
           </div>
           <div className="text-center">
-            <TweetButton tweetText={"solana f***in rekt me"} solAddress={"@SolanaRektMe"} />
+            <TweetButton tweetText={"solana f***in rekt me"} solAddress={"$MCDOG"} />
           </div>
         </form>
       </div>
