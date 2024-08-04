@@ -14,7 +14,7 @@ const TweetButton = ({ tweetText, solAddress }) => {
   };
 
   return (
-    <button onClick={handleTweet} className="bg-red-500 font-bold py-3 px-5 rounded-lg text-lg md:text-2xl">
+    <button onClick={handleTweet} className="bg-white font-bold py-3 px-5 rounded-lg text-lg md:text-2xl">
       Submit Application
     </button>
   );
