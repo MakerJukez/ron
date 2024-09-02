@@ -41,7 +41,7 @@ function App() {
             </select>
           </div>
           <div className="text-center">
-            <TweetButton tweetText={"Just applied to be a McInfluencer, watch me flip this career like a burger 🍔💼"} solAddress={"$ron"} />
+            <TweetButton tweetText={"Just applied to be a McInfluencer, watch me flip this career like a burger 🍔💼"} solAddress={"$ronald"} />
           </div>
         </form>
       </div>
