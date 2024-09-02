@@ -50,7 +50,7 @@ function App() {
           </div>
         </form>
       </div>
-      <div className='absolute bottom-3 text-slate-300 font-[500'>CA: Ak4KSiYvf4wHneMsZd94m9oLiwwBod7qHk3suxXgpump</div>
+      <div className='absolute bottom-3 text-slate-300 font-[500'>CA: updating...</div>
     </div>
   );
 }
